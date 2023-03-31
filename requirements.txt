@@ -5,4 +5,3 @@ protobuf~=3.19.0
 click==8
 numpy==1.21.0
 scikit-learn==1.1.1
-imblearn==1.9.1
